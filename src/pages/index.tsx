@@ -10,7 +10,6 @@ export default function index() {
     <div className='bg-gray-100 dark:bg-indigo-background font-sans'>
       <Head>
         <title>CryptoPrices | Market</title>
-        <link rel='icon' href='/favicon.ico' type='image/x-icon' />
       </Head>
       <div>
         <TopBar />
