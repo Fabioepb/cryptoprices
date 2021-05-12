@@ -2,7 +2,7 @@
 
 A Cryptocurrency price aggregator that automatically updates the latest prices and movements of the market.
 
- Built using [Nextjs](https://github.com/vercel/next.js), [Coingecko's API](https://github.com/coingecko), [TaildwindCss](https://github.com/tailwindlabs/tailwindcss) and [React Query](https://github.com/tannerlinsley/react-query).
+ Built using [Nextjs](https://github.com/vercel/next.js), [TypeScript](https://github.com/microsoft/TypeScript), [Coingecko's API](https://github.com/coingecko), [TaildwindCss](https://github.com/tailwindlabs/tailwindcss) and [React Query](https://github.com/tannerlinsley/react-query).
  
  This project is deployed on vercel, you can [try it out anytime](https://cryptoprices-seven.vercel.app/)
 
