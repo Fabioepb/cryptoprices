@@ -9,7 +9,7 @@ export default function index() {
   return (
     <div className='bg-gray-100 dark:bg-indigo-background font-sans'>
       <Head>
-        <title>BlockExplorer.com | Market</title>
+        <title>CryptoPrices | Market</title>
         <link rel='icon' href='/favicon.ico' type='image/x-icon' />
       </Head>
       <div>
